@@ -43,10 +43,12 @@
 
 如果需要购买本软件，需要签免责声明拍照，不得用于非法用途以及收集用于传播手段，否则后果自负。
 
-<img width="1823" height="895" alt="image" src="https://github.com/user-attachments/assets/1cfc1678-64dc-4684-b5b7-deedb57ddee3" />
+<img width="1251" height="608" alt="image" src="https://github.com/user-attachments/assets/2470476f-9732-4bd5-b082-66b3e503c63d" />
 
 
 # 价格声明
 
 
-价格50元，但是不签法律免责声明不卖。
+价格50元，永久使用，且永久不会过期。
+但是不签法律免责声明不卖。
+至于可靠性，识别的不准没关系，会整个存档的。
