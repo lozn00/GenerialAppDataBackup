@@ -46,12 +46,7 @@
 <img width="1251" height="608" alt="image" src="https://github.com/user-attachments/assets/2470476f-9732-4bd5-b082-66b3e503c63d" />
 
 
-# 价格声明
 
-
-价格50元，永久使用，且永久不会过期。
-但是不签法律免责声明不卖。
-至于可靠性，识别的不准没关系，会整个存档的。
 
 # 安全性
 
